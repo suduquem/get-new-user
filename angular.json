@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "get-new-user"
+    }
+  },
+  "defaultProject": "get-new-user",
+  "cli": {
+    "analytics": "79e80199-5725-4ada-8926-7b2d60565f29"
+  }
 }
